@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "236666783296",
+    "project_id": "world-traveller-4dea7",
+    "storage_bucket": "world-traveller-4dea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236666783296:android:cf290a1fe83fab471541a5",
+        "android_client_info": {
+          "package_name": "com.example.world_traveller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236666783296-7etiv3srmb7o2siq3j8o7uaih4nmj36o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.world_traveller",
+            "certificate_hash": "03b409bf8e4888e411c4d2263aaa5e087667f025"
+          }
+        },
+        {
+          "client_id": "236666783296-nseoq1c6f3cqu4uqc07a1msnhrgp10cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyOtnZlD3mxbFj81Fe0i4ovy6BIgiPcn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236666783296-nseoq1c6f3cqu4uqc07a1msnhrgp10cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
